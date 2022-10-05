@@ -32,7 +32,7 @@ Banking Application Using MongoDB, Express.js, React.js and Node.js
     <li>Modify dal.js file
         <ul>
             <li>From: const url = 'mongodb://localhost:27017’;</li>
-            <li>To: const url = 'mongodb://<your VM IP address>:27017’;</li>
+            <li>To: const url = 'mongodb://[your VM IP address]:27017’;</li>
         </ul>
     </li>
     <li>Modify index.js file
